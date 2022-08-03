@@ -9,7 +9,7 @@ Requirements:<br>
 - environment variable named VCPKG_ROOT and the value should be a path to where vcpkg is installed.<br>
 - CMake 3.20 and above<br>
 <br>
-On windows, simply right-click in root folder of the repository and select option "Open in Visual Studio"<br>
+On windows, simply right-click in root folder of the repository and select option "Open with Visual Studio"<br>
 
 
 ![image](https://user-images.githubusercontent.com/16348711/182658136-1b918d5b-2d47-4a8a-8b07-431b2d32849f.png)
