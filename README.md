@@ -1,6 +1,6 @@
-# Visual Studio openfolders with cmake and vcpkg
+
 <br>
-Base C++ project utilizing vcpkg, CMake ninja multi-config and VS open folders.<br>
+Base C++ project utilizing vcpkg, CMake ninja multi-config and VS open folders if on windows.<br>
 You can finally add files, folders and work on your project from within IDE without the need to edit cmake files!<br>
 Automatically detects changes in CMake files and rebuilds project if needed<br>
 Consume libraries from VCPKG, with fmt example in vcpkg.json and /src/CMakeLists.txt<br>
