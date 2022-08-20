@@ -4,7 +4,7 @@ Base C++ project utilizing vcpkg, CMake ninja multi-config and VS open folders i
 You can finally add files, folders and work on your project from within IDE without the need to edit cmake files!<br>
 Automatically detects changes in CMake files and rebuilds project if needed<br>
 Consume libraries from VCPKG, with fmt example in vcpkg.json and /src/CMakeLists.txt<br>
-It also has support for custom vcpkg ports, which goes to .vcpkg folder - this project doesn't show how to use those though
+It also has support for custom vcpkg ports, which goes to .vcpkg (otherwise known as VCPKG registries) folder - this project doesn't show how to use those though
 
 
 <br>
