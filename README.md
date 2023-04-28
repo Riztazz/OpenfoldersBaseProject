@@ -1,5 +1,7 @@
 
 <br>
+This project is far superior as it doesn't require VCPKG_ROOT enviromental variable https://github.com/bitmeal/vcpkg-cmake-integration
+
 Base C++ project utilizing vcpkg, CMake ninja multi-config and VS open folders if on windows.<br>
 You can finally add files, folders and work on your project from within IDE without the need to edit cmake files!<br>
 Automatically detects changes in CMake files and rebuilds project if needed<br>
